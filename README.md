@@ -3,6 +3,8 @@
 - taehoon@kaist.ac.kr
 
 ## EDUCATION
+- [KAIST AI Graduate School](https://gsai.kaist.ac.kr/)    [Mar. 2024 - Present]
+
 - Sogang University    [Mar. 2017 - Feb. 2024]
   - Graduated as the **top student** from the College of Natural Sciences (**Valedictorian**)
   - Major: Physics, Computer Science
@@ -38,8 +40,4 @@
     return 0;
   }
  ```
- 
-<!---
-sillsill777/sillsill777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
