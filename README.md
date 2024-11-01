@@ -3,11 +3,11 @@
 - taehoon@kaist.ac.kr
 
 ## EDUCATION
-- *Korea Advanced Institute of Science and Technology (KAIST)* &nbsp;&nbsp; [Mar. 2024 - Present]
+- **Korea Advanced Institute of Science and Technology (KAIST)** &nbsp;&nbsp; [Mar. 2024 - Present]
   
   M.S. in [Graduate School of Artificial Intelligence](https://gsai.kaist.ac.kr/)
 
-- *Sogang University*    &nbsp;[Mar. 2017 - Feb. 2024]
+- **Sogang University**    &nbsp;[Mar. 2017 - Feb. 2024]
 
   B.S. in Physics & Computer Science and Engineering (Double Major),&nbsp;&nbsp; **GPA: 4.47/4.5**
   
