@@ -30,7 +30,7 @@
 - Research Intern at KAIST, Visual AI Lab (Advisor, Prof. [Minhyuk Sung](https://mhsung.github.io/))&nbsp;&nbsp; [Jan.2024 - Feb.2024]
 - Research Intern at CJ Group, CJ AI Center [Hosted by Seoul National Univ. AI Institute, Industry-Academic Cooperation Program]
   
-  **Animatable 3D rigged mesh person reconstruction from single 2D image** [[Presentation (in Korean)](https://www.youtube.com/watch?v=m7k0Kr3pZs8)]&nbsp;&nbsp;[Jul.2023 - Aug. 2023]
+  &nbsp;&nbsp;**Animatable 3D rigged mesh person reconstruction from single 2D image** [[Presentation (in Korean)](https://www.youtube.com/watch?v=m7k0Kr3pZs8)]&nbsp;&nbsp;[Jul.2023 - Aug. 2023]
 - Research Internship at KAIST AI graduate school, BISPL Lab (Advisor, Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html))&nbsp;&nbsp;    [Jul. 2022 - Sept. 2022]
 - Undergraduate Research Intern at SOGANG Visual Computing Lab (Advisor, Prof. [Joo Ho Lee](https://sites.google.com/view/jooholee))&nbsp;&nbsp;     [Sept. 2022 - Apr. 2023]
 
