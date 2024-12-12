@@ -18,7 +18,7 @@
   
   [Phillip Y. Lee](https://phillipinseoul.github.io/)\*, &nbsp;**Taehoon Yoon**\*, &nbsp; [Minhyuk Sung](https://mhsung.github.io/) (* equal contribution)
 
-  NeurIPS 2024 | [**Website**](https://groundit-visualai.github.io/) | [**Paper**](https://groundit-visualai.github.io/static/groundit_paper.pdf) | [**arXiv**](https://arxiv.org/abs/2410.20474) |
+  NeurIPS 2024 | [**Website**](https://groundit-diffusion.github.io/) | [**Paper**](https://groundit-diffusion.github.io/static/groundit_paper.pdf) | [**arXiv**](https://arxiv.org/abs/2410.20474) |
   
 
 ## ACADEMIC INTERESTS
