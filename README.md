@@ -14,11 +14,11 @@
   Graduated as the **top student** from the College of Natural Sciences (**Valedictorian**)
 
 ## PUBLICATIONS
-- GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation
+- [**NeurIPS 2024**] GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation
   
   [Phillip Y. Lee](https://phillipinseoul.github.io/)\*, &nbsp;**Taehoon Yoon**\*, &nbsp; [Minhyuk Sung](https://mhsung.github.io/) (* equal contribution)
 
-  NeurIPS 2024 | [**Website**](https://groundit-diffusion.github.io/) | [**Paper**](https://groundit-diffusion.github.io/static/groundit_paper.pdf) | [**arXiv**](https://arxiv.org/abs/2410.20474) |
+  | [**Website**](https://groundit-diffusion.github.io/) | [**Paper**](https://groundit-diffusion.github.io/static/groundit_paper.pdf) | [**arXiv**](https://arxiv.org/abs/2410.20474) | [**Code**](https://github.com/KAIST-Visual-AI-Group/GrounDiT) |
   
 
 ## ACADEMIC INTERESTS
