@@ -19,7 +19,12 @@
   [Phillip Y. Lee](https://phillipinseoul.github.io/)\*, &nbsp;**Taehoon Yoon**\*, &nbsp; [Minhyuk Sung](https://mhsung.github.io/) (* equal contribution)
 
   | [**Website**](https://groundit-diffusion.github.io/) | [**Paper**](https://groundit-diffusion.github.io/static/groundit_paper.pdf) | [**arXiv**](https://arxiv.org/abs/2410.20474) | [**Code**](https://github.com/KAIST-Visual-AI-Group/GrounDiT) |
+
+- [arXiv preprint] Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing
+
+  [Jaihoon Kim](https://jh27kim.github.io/)\*, &nbsp;**Taehoon Yoon**\*, &nbsp; Jisung Hwang\*, &nbsp; [Minhyuk Sung](https://mhsung.github.io/) (* equal contribution)
   
+  | [**Website**](https://flow-inference-time-scaling.github.io/) | [**Paper**](https://flow-inference-time-scaling.github.io/static/manuscript.pdf) | [**arXiv**](https://arxiv.org/abs/2503.19385) |
 
 ## ACADEMIC INTERESTS
 - **Generative Modeling**
