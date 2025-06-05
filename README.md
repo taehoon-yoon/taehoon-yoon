@@ -26,7 +26,13 @@
 
   [Jaihoon Kim](https://jh27kim.github.io/)\*, &nbsp;**Taehoon Yoon**\*, &nbsp; Jisung Hwang\*, &nbsp; [Minhyuk Sung](https://mhsung.github.io/) (* equal contribution)
   
-  | [**Website**](https://flow-inference-time-scaling.github.io/) | [**Paper**](https://flow-inference-time-scaling.github.io/static/manuscript.pdf) | [**arXiv**](https://arxiv.org/abs/2503.19385) |
+  | [**Website**](https://flow-inference-time-scaling.github.io/) | [**Paper**](https://flow-inference-time-scaling.github.io/static/manuscript.pdf) | [**arXiv**](https://arxiv.org/abs/2503.19385) | [**Code**](https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling) |
+
+- [arXiv preprint] Ψ-Sampler: Initial Particle Sampling for SMC-Based Inference-Time Reward Alignment in Score Models
+
+  **Taehoon Yoon**\*, &nbsp; [Yunhong Min](https://github.com/myh4832)\*, &nbsp; [Kyeongmin Yeo](https://32v.github.io/)\*,&nbsp; [Minhyuk Sung](https://mhsung.github.io/) (* equal contribution)
+  
+  | [**Website**](https://psi-sampler.github.io/) | [**Paper**](https://arxiv.org/pdf/2506.01320) | [**arXiv**](https://arxiv.org/abs/2506.01320) | [**Code**](https://github.com/KAIST-Visual-AI-Group/Psi-Sampler) |
 
 ## ACADEMIC INTERESTS
 - **Generative Modeling**
