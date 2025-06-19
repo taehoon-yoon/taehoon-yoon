@@ -1,5 +1,4 @@
 # ***TAEHOON YOON***
-<img src="./assets/image.png" height="400" width="400">
 
 - Seoul, Republic of Korea
 - taehoon@kaist.ac.kr
