@@ -18,19 +18,19 @@
 
 - [**NeurIPS 2025**, ***Spotlight***] Ψ-Sampler: Initial Particle Sampling for SMC-Based Inference-Time Reward Alignment in Score Models
 
-  **Taehoon Yoon**\*, &nbsp; [Yunhong Min](https://github.com/myh4832)\*, &nbsp; [Kyeongmin Yeo](https://32v.github.io/)\*,&nbsp; [Minhyuk Sung](https://mhsung.github.io/) (* equal contribution)
+  **Taehoon Yoon**\*, &nbsp; Yunhong Min\*, &nbsp; Kyeongmin Yeo\*,&nbsp; Minhyuk Sung (* equal contribution)
   
   | [**Website**](https://psi-sampler.github.io/) | [**Paper**](https://arxiv.org/pdf/2506.01320) | [**arXiv**](https://arxiv.org/abs/2506.01320) | [**Code**](https://github.com/KAIST-Visual-AI-Group/Psi-Sampler) |
 
 - [**NeurIPS 2025**] Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing
 
-  [Jaihoon Kim](https://jh27kim.github.io/)\*, &nbsp;**Taehoon Yoon**\*, &nbsp; Jisung Hwang\*, &nbsp; [Minhyuk Sung](https://mhsung.github.io/) (* equal contribution)
+  Jaihoon Kim\*, &nbsp;**Taehoon Yoon**\*, &nbsp; Jisung Hwang\*, &nbsp; Minhyuk Sung (* equal contribution)
   
   | [**Website**](https://flow-inference-time-scaling.github.io/) | [**Paper**](https://flow-inference-time-scaling.github.io/static/manuscript.pdf) | [**arXiv**](https://arxiv.org/abs/2503.19385) | [**Code**](https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling) |
   
 - [**NeurIPS 2024**] GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation
   
-  [Phillip Y. Lee](https://phillipinseoul.github.io/)\*, &nbsp;**Taehoon Yoon**\*, &nbsp; [Minhyuk Sung](https://mhsung.github.io/) (* equal contribution)
+  Phillip Y. Lee\*, &nbsp;**Taehoon Yoon**\*, &nbsp; Minhyuk Sung (* equal contribution)
 
   | [**Website**](https://groundit-diffusion.github.io/) | [**Paper**](https://groundit-diffusion.github.io/static/groundit_paper.pdf) | [**arXiv**](https://arxiv.org/abs/2410.20474) | [**Code**](https://github.com/KAIST-Visual-AI-Group/GrounDiT) |
 
