@@ -3,14 +3,19 @@
 - Seoul, Republic of Korea
 - taehoon@kaist.ac.kr
 
+## ACADEMIC INTERESTS
+**Generative Modeling**, **Probabilistic Inference**: 
+
+Diffusion and Flow-Matching Models, Controllable Generation, Reward Alignment, Inverse Problems, Particle-Based Sampling Methods
+  
 ## EDUCATION
 - **Korea Advanced Institute of Science and Technology (KAIST)** &nbsp;&nbsp; [Mar. 2024 - Present]
   
-  M.S. in [Graduate School of Artificial Intelligence](https://gsai.kaist.ac.kr/)
+  M.S. in Artificial Intelligence ([Graduate School of Artificial Intelligence](https://gsai.kaist.ac.kr/))
 
 - **Sogang University**    &nbsp;[Mar. 2017 - Feb. 2024]
 
-  B.S. in Physics & Computer Science and Engineering (Double Major),&nbsp;&nbsp; **GPA: 4.47/4.5**
+  B.S. in Physics & Computer Science and Engineering (Double Major),&nbsp;&nbsp; **GPA: 4.27/4.3**
   
   Graduated as the **top student** from the College of Natural Sciences (**Valedictorian**)
 
@@ -34,23 +39,22 @@
 
   | [**Website**](https://groundit-diffusion.github.io/) | [**Paper**](https://groundit-diffusion.github.io/static/groundit_paper.pdf) | [**arXiv**](https://arxiv.org/abs/2410.20474) | [**Code**](https://github.com/KAIST-Visual-AI-Group/GrounDiT) |
 
-## ACADEMIC INTERESTS
-- **Generative Modeling**
-- Computer Vision
-- Few-shot 3D reconstruction
+## HONORS & AWARDS
+- **Valedictorian**, College of Natural Sciences, Sogang University&nbsp;&nbsp; [Feb. 2024]
+- **Dean's List**, Sogang University&nbsp;&nbsp;    [Feb. 2023, Feb. 2020]
+- **Top 1% Grade Award**, Sogang University&nbsp;&nbsp;    [Sept. 2020, Mar. 2020, Mar. 2019]
 
 ## RESEARCH EXPERIENCE
-- Research Intern at KAIST, Visual AI Lab (Advisor, Prof. [Minhyuk Sung](https://mhsung.github.io/))&nbsp;&nbsp; [Jan.2024 - Feb.2024]
-- Research Intern at CJ Group, CJ AI Center [Hosted by Seoul National Univ. AI Institute, Industry-Academic Cooperation Program]
-  
-  &nbsp;&nbsp;**Animatable 3D rigged mesh person reconstruction from single 2D image** [[Presentation (in Korean)](https://www.youtube.com/watch?v=m7k0Kr3pZs8)]&nbsp;&nbsp;[Jul.2023 - Aug. 2023]
-- Research Internship at KAIST AI graduate school, BISPL Lab (Advisor, Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html))&nbsp;&nbsp;    [Jul. 2022 - Sept. 2022]
-- Undergraduate Research Intern at SOGANG Visual Computing Lab (Advisor, Prof. [Joo Ho Lee](https://sites.google.com/view/jooholee))&nbsp;&nbsp;     [Sept. 2022 - Apr. 2023]
+- Graduate Researcher at Visual AI Lab, KAIST  (Advisor, Prof. [Minhyuk Sung](https://mhsung.github.io/))&nbsp;&nbsp; [Mar.2024 - Present]
+- Research Intern at Visual AI Lab, KAIST  (Advisor, Prof. [Minhyuk Sung](https://mhsung.github.io/))&nbsp;&nbsp; [Jan.2024 - Feb.2024]
+- Research Intern at CJ AI Center, CJ Group [hosted by Seoul National Univ. AI Institute]  (Advisor, Dr. [Seong Jong Ha](https://www.linkedin.com/in/seongjongha/))&nbsp;&nbsp;[Jul.2023 - Aug. 2023]
+- Undergraduate Research Assistant at Visual Computing Lab, Sogang University (Advisor, Prof. [Joo Ho Lee](https://sites.google.com/view/jooholee))&nbsp;&nbsp;     [Sept. 2022 - Apr. 2023]
+- Research Internship at BISPL Lab, KAIST AI graduate school (Advisor, Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html))&nbsp;&nbsp;    [Jul. 2022 - Sept. 2022]
 
-## AWARDS / HONORS
-- **Valedictorian**, College of Natural Sciences, Awarded by Sogang University&nbsp;&nbsp; [Feb. 2024]
-- **Dean's List**&nbsp;&nbsp;    [Feb. 2023, Feb. 2020]
-- **Top 1% Grade Award**, Awarded by the President of the University&nbsp;&nbsp;    [Sept. 2020, Mar. 2020, Mar. 2019]
+## WORK EXPERIENCE
+- Observatory & Education Assistant at Donga Science Observatory&nbsp;&nbsp; [May.2018 - Feb. 2019]
+
+
 
 - - -
 
